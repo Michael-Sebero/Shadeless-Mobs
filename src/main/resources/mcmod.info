@@ -1,7 +1,7 @@
 [{
-  "modid": "shadelessblocks",
-  "name": "Shadeless Blocks",
-  "description": "Makes all blocks render without shading. Works with vanilla and modded blocks automatically.",
+  "modid": "shadelessmobs",
+  "name": "Shadeless Mobs",
+  "description": "Makes all mobs render without shading. Works with vanilla and modded mobs automatically.",
   "version": "1.0",
   "mcversion": "1.12.2",
   "url": "",
